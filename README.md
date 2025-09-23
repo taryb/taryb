@@ -27,6 +27,11 @@ REST APIs • Data Visualization • Workflow Automation • Technical Documenta
 
 ## 🚀 Projects  
 
+### 🎥 PyQt Lab Automation Simulator  
+Simulator of a 4-camera lab setup with live plots, measurement averaging, and snapshots.  
+Skills: **PyQt5, GUI design, simulation, data logging**  
+➡️ [Repo](https://github.com/taryb/pyqt-lab-automation)  
+
 ### 📊 Expense Tracker (CLI)  
 Lightweight Python tool to log expenses, save to CSV, and summarize spending by category or month.  
 Skills: **Data handling, persistence, CLI design**  
@@ -37,10 +42,6 @@ Interactive dashboard that visualizes expenses with charts and summaries.
 Skills: **Data visualization, Streamlit, Pandas, Altair**  
 ➡️ [Repo](https://github.com/taryb/expense-dashboard)  
 
-### 🎥 PyQt Lab Automation Simulator  
-Simulator of a 4-camera lab setup with live plots, measurement averaging, and snapshots.  
-Skills: **PyQt5, GUI design, simulation, data logging**  
-➡️ [Repo](https://github.com/taryb/pyqt-lab-automation)  
 
 ---
 
